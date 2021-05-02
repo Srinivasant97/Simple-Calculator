@@ -1,0 +1,57 @@
+.base{
+	
+	
+	width:300px;
+	position:relative;
+	margin : auto
+}
+
+.tit{
+	text-align:center;
+}
+
+.result{
+	float:center;	
+	background-color:#9CE85A;
+	margin:10px;
+	border-radius:10px;
+	border:20px;
+	height:70px;
+	text-align:right;
+	
+}
+
+button{
+	height : 50px;
+	width: 50px;
+	border-radius:50%;
+	cursor:pointer;
+	float: centre;
+	margin:10px;
+	font-weight:bold;
+	background-color:#eaedef;
+
+
+
+}
+
+.calc-part{
+	background-color: grey;
+	height:500px;
+	border-radius:20px;
+	
+}
+
+#result-history{
+	margin:10px;
+	height:30px;
+	color:#645D5D;
+	
+
+}
+
+#output{
+	margin:15px;
+	height:30px;
+	height:10px;
+}
